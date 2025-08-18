@@ -45,7 +45,6 @@ Output:
 ```
 
 ## 🖼 Screenshot
-(Add a screenshot of the script running or CSV file here)
 
 ```markdown
 ![Demo Screenshot](assets/demo.png)
