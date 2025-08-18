@@ -17,6 +17,6 @@ Useful for traders, analysts, and algorithm developers (compatible with MetaTrad
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/stock-data-downloader.git
-cd stock-data-downloader
+git clone https://github.com/yourusername/stock-yahoo-downloader.git
+cd stock-yahoo-downloader
 pip install -r requirements.txt
