@@ -47,7 +47,7 @@ Output:
 ## 🖼 Screenshot
 
 ```markdown
-![Demo Screenshot](stock-yahoo-downloader/assets/demo.png)
+![Demo Screenshot] (https://github.com/mohsaket/stock-yahoo-downloader/tree/main/assets?raw=true))
 ```
 
 ## 📌 Requirements
